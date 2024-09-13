@@ -1,4 +1,4 @@
-**ENLGISH**
+**ENGLISH**
 A tiny(cute) widget where the event bus stops.
 
 **한국어**
@@ -8,7 +8,7 @@ A tiny(cute) widget where the event bus stops.
 イベントバスが停車する小さな（かわいい）ウィジェットです。
 
 ## FEATURES / 특징 / 特徴
-**ENLGISH**
+**ENGLISH**
 There is a small event bus built in widget.
 Subscribe to events when you need them.
 And unsubscribe them when you don't need them.
@@ -22,7 +22,7 @@ And unsubscribe them when you don't need them.
 必要なときにイベントをサブスクライブし、不要になったらキャンセルします。
 
 ## INSTALL / 설치 / インストール
-**ENLGISH**
+**ENGLISH**
 You're all set with one simple command!
 
 **한국어**
@@ -36,7 +36,7 @@ flutter pub add bus_stoppable_widget
 ```
 
 ## CREATE / 생성 / 作る
-**ENLGISH**
+**ENGLISH**
 Change the *StatefulWidget* to *BusStoppableWidget*.
 And also change the *State* to *BusStoppableState*.
 
@@ -49,7 +49,7 @@ And also change the *State* to *BusStoppableState*.
 また、*State* を *BusStoppableState* に変更します。
 
 ## USAGE / 사용 / 使用法
-**ENLGISH**
+**ENGLISH**
 When subscribing to an event, use *subscribe(String, Function(dynamic))*.
 Conversely, when unsubscribing to an event, use *unsubscribe(String)*.
 

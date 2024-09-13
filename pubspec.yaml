@@ -1,6 +1,6 @@
 name: bus_stoppable_widget
 description: "A minimal event stoppable widget."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/sudo-gugu/bus_stoppable_widget
 repository: https://github.com/sudo-gugu/bus_stoppable_widget.git
 license: MIT
