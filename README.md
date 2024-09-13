@@ -32,7 +32,7 @@ You're all set with one simple command!
 簡単なコマンド 1 つですべての設定が完了します。
 
 ```
-flutter pub get bus_stoppable_widget
+flutter pub add bus_stoppable_widget
 ```
 
 ## CREATE / 생성 / 作る
